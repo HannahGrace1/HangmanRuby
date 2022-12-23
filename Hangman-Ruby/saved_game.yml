@@ -1,0 +1,8 @@
+---
+- !ruby/object:Game
+  letters:
+  - a
+  - save
+  incorrect: 9
+  one_word: motorola
+  display: _______a
